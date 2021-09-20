@@ -1,0 +1,10 @@
+{
+    "name": "phpsavant/view",
+    "authors": [
+        {
+            "name": "Paul M. Jones",
+            "email": "pmjones88@gmail.com"
+        }
+    ],
+    "require": {}
+}
